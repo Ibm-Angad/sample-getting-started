@@ -104,4 +104,9 @@
       </plugin>
     </plugins>
   </build>
+  <modules>
+   <module>my-application-ejb</module>
+   <module>my-application-web</module>
+   <module>my-application-ear</module>
+</modules>
 </project>
